@@ -1,3 +1,5 @@
+# THIS IS JUST A SECONDARY PAGE, PLEASE VISIT THE SITE LINKED BELOW TO DOWNLOADD KARNALIFY
+
 # Karnalify
 Karnalify is a external minecraft client offering lightweight cheats for minecraft 1.8.9
 
